@@ -1,0 +1,2 @@
+# 🧠 Training
+    Just some training.
